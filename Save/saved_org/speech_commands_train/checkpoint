@@ -1,0 +1,6 @@
+model_checkpoint_path: "conv.ckpt-6800"
+all_model_checkpoint_paths: "conv.ckpt-6400"
+all_model_checkpoint_paths: "conv.ckpt-6500"
+all_model_checkpoint_paths: "conv.ckpt-6600"
+all_model_checkpoint_paths: "conv.ckpt-6700"
+all_model_checkpoint_paths: "conv.ckpt-6800"
